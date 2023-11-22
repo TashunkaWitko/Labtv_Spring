@@ -1,5 +1,5 @@
 # Labtv_Spring
-LabForTraning project emulating the functionalities of Api calls and a basic CRUD using thymeleaf.
+LabForTraning project emulating the functionalities of API calls (labtv) and a basic CRUD using thymeleaf (labtv_monolitico).
 
 The database labtv.sql qas not designed by me but was given and my task was to build around it in order to obtain JSONs of the data present in the database.
 
